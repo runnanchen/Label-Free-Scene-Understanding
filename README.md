@@ -4,6 +4,9 @@
 We study how vision foundation models enable networks to comprehend 2D and 3D environments without relying on labelled data. To accomplish this, we introduce a novel framework called Cross-modality Noisy Supervision (CNS). By effectively harnessing the strengths of CLIP and
 SAM, our approach simultaneously trains 2D and 3D networks, yielding remarkable performance. [[Preprint Paper]](https://arxiv.org/pdf/2306.03899.pdf) 
 
+The codebase has been adapted from [CLIP2Scene](https://github.com/runnanchen/CLIP2Scene). We will release the code after the paper gets acceptance.
+
+# Qualitative Evaluation 
 
 **scannet 2D.**
 ![Overview of the method](./assets/suplementary_scanNet2D.jpeg)
@@ -16,7 +19,6 @@ SAM, our approach simultaneously trains 2D and 3D networks, yielding remarkable 
 **nuScenes 3D.**
 ![Overview of the method](./assets/suplementary_nuScenes3D.jpeg)
 
-The codebase has been adapted from [CLIP2Scene](https://github.com/runnanchen/CLIP2Scene). We will release the code after the paper gets acceptance.
 
 # Citation
 ```
