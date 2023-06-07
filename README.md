@@ -1,13 +1,14 @@
 # CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP (CVPR 2023)
 
 ![Overview of the method](./assets/method.png)
-CLIP2Scene leverages CLIP knowledge to pre-train a 3D point cloud segmentation network via semantic and spatial-temporal consistency regularization. It yields impressive performance on annotation-free 3D
-semantic segmentation and significantly outperforms other self-supervised methods when fine-tuning on annotated data.
+We study how vision foundation models enable networks to comprehend 2D and 3D environments without relying on labelled data. To accomplish this, we introduce a novel framework called Cross-modality Noisy Supervision (CNS). By effectively harnessing the strengths of CLIP and
+SAM, our approach simultaneously trains 2D and 3D networks, yielding remarkable performance.
 
 [[Preprint Paper]](https://arxiv.org/pdf/2306.03899.pdf) 
 
+The codebase has been adapted from [CLIP2Scene](https://github.com/runnanchen/CLIP2Scene). 
+
 # Citation
-If you use CLIP2Scene in your work, please cite
 ```
 @article{chen2023clip2scene,
   title={CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP},
@@ -16,9 +17,3 @@ If you use CLIP2Scene in your work, please cite
   year={2023}
 }
 ```
-**Acknowledgement.** 
-
-Part of the codebase has been adapted from [SLidR](https://github.com/valeoai/SLidR), [MaskCLIP](https://github.com/chongzhou96/MaskCLIP), [PCSeg](https://github.com/PJLab-ADG/PCSeg) and [OpenPCDet](https://github.com/open-mmlab/OpenPCDet).
-
-# Contact
-For questions about our paper or code, please contact [Runnan Chen](rnchen2@cs.hku.hk).
