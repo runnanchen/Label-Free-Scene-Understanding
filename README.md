@@ -14,7 +14,7 @@ SAM, our approach simultaneously trains 2D and 3D networks, yielding remarkable 
 **nuScenes 2D.**
 ![Overview of the method](./assets/suplementary_nuScenes2D.jpeg)
 **nuScenes 3D.**
-![Overview of the method](./assets/suplementary_nuScenes3D.jpeg)
+![Overview of the method](./assets/visual_scannet_3D.jpeg)
 
 The codebase has been adapted from [CLIP2Scene](https://github.com/runnanchen/CLIP2Scene). We will release the code after the paper gets acceptance.
 
