@@ -6,6 +6,13 @@ SAM, our approach simultaneously trains 2D and 3D networks, yielding remarkable 
 
 [[Preprint Paper]](https://arxiv.org/pdf/2306.03899.pdf) 
 
+
+![Overview of the method](./assets/teaser.jpeg)
+![Overview of the method](./assets/teaser.jpeg)
+![Overview of the method](./assets/teaser.jpeg)
+![Overview of the method](./assets/teaser.jpeg)
+![Overview of the method](./assets/teaser.jpeg)
+
 The codebase has been adapted from [CLIP2Scene](https://github.com/runnanchen/CLIP2Scene). 
 
 # Citation
