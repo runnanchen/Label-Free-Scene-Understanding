@@ -31,7 +31,7 @@ The codebase is adapted from [CLIP2Scene](https://github.com/runnanchen/CLIP2Sce
 
 @article{chen2023towards,
   title={Towards Label-free Scene Understanding by Vision Foundation Models},
-  author={Chen, Runnan and Liu, Youquan and Kong, Lingdong and Chen, Nenglun and Zhu, Xinge and Ma, Yuexin and Tongliang, Liu and Wang, Wenping},
+  author={Chen, Runnan and Liu, Youquan and Kong, Lingdong and Chen, Nenglun and Zhu, Xinge and Ma, Yuexin and Liu, Tongliang and Wang, Wenping},
   journal={arXiv preprint arXiv:2306.03899},
   year={2023}
 }
