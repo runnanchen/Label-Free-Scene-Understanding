@@ -30,10 +30,10 @@ The codebase is adapted from [CLIP2Scene](https://github.com/runnanchen/CLIP2Sce
   year={2023}
 }
 
-@article{chen2023towards,
-  title={Towards Label-free Scene Understanding by Vision Foundation Models},
-  author={Chen, Runnan and Liu, Youquan and Kong, Lingdong and Chen, Nenglun and Zhu, Xinge and Ma, Yuexin and Liu, Tongliang and Wang, Wenping},
-  journal={arXiv preprint arXiv:2306.03899},
+@inproceedings{chen2023towards,
+  title={Towards label-free scene understanding by vision foundation models},
+  author={Chen, Runnan and Liu, Youquan and Kong, Lingdong and Chen, Nenglun and Xinge, ZHU and Ma, Yuexin and Liu, Tongliang and Wang, Wenping},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
   year={2023}
 }
 ```
